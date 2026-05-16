@@ -63,6 +63,7 @@ australia-weather-dashboard/
 │   └── weather_forecast.py
 │
 ├── data/
+│   └── .gitkeep
 │
 ├── README.md
 ├── requirements.txt
